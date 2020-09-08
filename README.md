@@ -1,7 +1,7 @@
 # Your Today
 
 ## Deployment
-Our application is deployed on [chen.today](https://chen.today).
+Our application is deployed [here](https://custombrowserhomepage.chenpan.xyz).
 
 ## Login Credentials
 ### Standard Users
